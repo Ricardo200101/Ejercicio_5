@@ -6,6 +6,9 @@ namespace Ejercicio_5
     {
         static void Main(string[] args)
         {
+            // VICTOR RICARDO ALVAREZ SARAVIA. 
+            // MERARY JULISSA  ARAUJO VELASQUEZ. 
+
             // Declaracion de datos. 
             int produc;
 
